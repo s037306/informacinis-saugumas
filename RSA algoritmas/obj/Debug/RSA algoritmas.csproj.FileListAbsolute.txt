@@ -1,0 +1,10 @@
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\bin\Debug\RSA algoritmas.exe.config
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\bin\Debug\RSA algoritmas.exe
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\bin\Debug\RSA algoritmas.pdb
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA algoritmas.csprojAssemblyReference.cache
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA_algoritmas.Form1.resources
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA_algoritmas.Properties.Resources.resources
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA algoritmas.csproj.GenerateResource.cache
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA algoritmas.csproj.CoreCompileInputs.cache
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA algoritmas.exe
+C:\Users\Kakarotas\Desktop\Atsiskaitymai\Informacijos saugumas\RSA-algoritmas-master\RSA-algoritmas-master\RSA algoritmas\obj\Debug\RSA algoritmas.pdb
